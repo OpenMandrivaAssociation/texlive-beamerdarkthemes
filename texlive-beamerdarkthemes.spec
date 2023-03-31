@@ -1,6 +1,6 @@
 Name:		texlive-beamerdarkthemes
 Version:	55117
-Release:	1
+Release:	2
 Summary:	Dark color themes for beamer
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamerdarkthemes
