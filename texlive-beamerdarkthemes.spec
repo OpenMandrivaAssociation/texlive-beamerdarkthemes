@@ -3,7 +3,7 @@ Version:	55117
 Release:	2
 Summary:	Dark color themes for beamer
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamerdarkthemes
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/beamerdarkthemes
 License:	lppl1.3 cc-by-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamerdarkthemes.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamerdarkthemes.doc.r%{version}.tar.xz
